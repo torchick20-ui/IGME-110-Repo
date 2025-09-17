@@ -14,4 +14,4 @@ Now let's make a list!
   <li> Third! </li>
 </ul>
 [RIT Home Page!] (how https://www.rit.edu/)
-![Mr Ant Tenna](https://static.wikia.nocookie.net/villains/images/1/19/Tenna.png/revision/latest?cb=20250607173103)
+![Mr Ant Tenna](https://static.wikia.nocookie.net/deltarune/images/d/de/Tenna_Overworld_Idle.png/revision/latest/scale-to-width/360?cb=20250619144127)
