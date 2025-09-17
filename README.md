@@ -15,4 +15,4 @@ Now let's make a list!
 </ul>
 [RIT Home Page!](https://www.rit.edu/)
 
-(![Mr Ant Tenna](https://github.com/user-attachments/assets/cdf2f4f3-34ed-47c1-9d22-d4f2cb872854)
+![Mr Ant Tenna](https://github.com/user-attachments/assets/cdf2f4f3-34ed-47c1-9d22-d4f2cb872854)
