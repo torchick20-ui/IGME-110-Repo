@@ -13,6 +13,6 @@ Now let's make a list!
   <li> Second! </li>
   <li> Third! </li>
 </ul>
-[RIT Home Page!] (how https://www.rit.edu/)
+[RIT Home Page!](https://www.rit.edu/)
 
-![Mr Ant Tenna](![Untitled](https://github.com/user-attachments/assets/cdf2f4f3-34ed-47c1-9d22-d4f2cb872854)
+(![Mr Ant Tenna](https://github.com/user-attachments/assets/cdf2f4f3-34ed-47c1-9d22-d4f2cb872854)
